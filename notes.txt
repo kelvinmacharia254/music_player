@@ -1,0 +1,4 @@
+Remainig
+-play all songs in the playlist and loop
+-thread mulfunctioning
+-forward song 
